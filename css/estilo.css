@@ -1,0 +1,37 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+header{
+    background-color: mediumseagreen;
+    
+}
+#logo{
+	width: 160px;
+	height: 120px;
+	float: left;
+    
+    
+}
+.hrCima{
+	background-color: #323232;
+	height: 1px;
+	width: 100%;
+
+}
+.hrBaixo{
+	background-color: #323232;
+	height: 2px;
+	width: 100%;
+}
+footer{
+	width: 100%;
+    background-color: mediumseagreen;
+}
+#desenvolvedor{
+		text-align: right;
+		font-family: arial black;
+		font-size: 14px;
+		font-weight: bold;
+		
+}
